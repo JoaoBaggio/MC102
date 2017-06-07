@@ -1,0 +1,7 @@
+ID: 1100	Niv: 4
+ID: 2200	Niv: 2
+ID: 3300	Niv: 3
+ID: 4400	Niv: 3
+ID: 5500	Niv: 0
+ID: 6600	Niv: 2
+TOTAL: 14

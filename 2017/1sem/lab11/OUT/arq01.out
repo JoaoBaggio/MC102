@@ -1,0 +1,6 @@
+CWB EMB-195
+GYN ERJ-145
+BSB EMB-195
+
+ERJ-145 290 minutos
+EMB-195 492 minutos

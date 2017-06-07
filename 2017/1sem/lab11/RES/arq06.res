@@ -1,0 +1,5 @@
+CGR EMB-195
+SDU ERJ-145
+
+ERJ-145 90 minutos
+EMB-195 150 minutos

@@ -1,0 +1,8 @@
+start
+b 87
+b94
+run < arq08.in
+display relogio
+display personagem
+display minutos
+

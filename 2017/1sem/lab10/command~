@@ -1,0 +1,6 @@
+b 239
+run <IN/arq08.in
+display valorCartaCrupie
+display valorJogador
+display valorCrupie
+display jogada

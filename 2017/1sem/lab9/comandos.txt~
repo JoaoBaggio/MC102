@@ -1,0 +1,4 @@
+b 87
+display relogio
+display
+run < arq08.in

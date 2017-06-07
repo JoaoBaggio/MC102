@@ -1,0 +1,1 @@
+AUG ACU AUU UAA 
